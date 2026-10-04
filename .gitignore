@@ -1,0 +1,9 @@
+kubeconfig
+*.kubeconfig
+.kube/
+*.pem
+*.key
+id_*
+secrets/
+*.secret.yaml
+*.vault_pass*
